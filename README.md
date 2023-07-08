@@ -2,8 +2,6 @@
 
 ![License: MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen.svg)
 
-## Screenshot
-![Screenshot (54)](https://github.com/SparkkyJD/README-generator/assets/127361245/7788f9a7-e767-4a8e-a83f-90e1180e0cba)
 
 ## Description
 A readme,md file generator that utilizes inquirer.
@@ -16,7 +14,10 @@ A readme,md file generator that utilizes inquirer.
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 - [License Type](#license-type)
+- [Screenshot](#Screenshot)
 
+## Screenshot
+![Screenshot (54)](https://github.com/SparkkyJD/README-generator/assets/127361245/7788f9a7-e767-4a8e-a83f-90e1180e0cba)
 
 ## Installation <a name="installation"></a>
 Clone repo, npm i, node index.js. 
