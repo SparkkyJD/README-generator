@@ -9,11 +9,11 @@ A readme,md file generator that utilizes inquirer.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage Instructions](#usage-instructions)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Test Instructions](#test-instructions)
-- [Questions](#questions)
-- [License Type](#license-type)
+- [Usage Instructions](#usage)
+- [Contribution Guidelines](#contribution)
+- [Test Instructions](#test)
+- [Questions](#github)
+- [License Type](#license)
 - [Screenshot](#Screenshot)
 
 ## Screenshot
