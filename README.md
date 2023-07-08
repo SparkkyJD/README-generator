@@ -1,38 +1,31 @@
-# ReadMe Generator mod 9. 
+# readme file generator!
 
 ![License: MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen.svg)
 
 
 ## Description
-A readme,md file generator that utilizes inquirer.
+Create a readme file for your projects!
 
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage Instructions](#usage)
-- [Contribution Guidelines](#contribution)
-- [Test Instructions](#test)
-- [Questions](#github)
-- [License Type](#license)
-- [Screenshot](#screenshot)
-- [Demo](#demo)
+- [Usage Instructions](#usage-instructions)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Test Instructions](#test-instructions)
+- [Questions](#questions)
+- [License Type](#license-type)
 
-## DEMO <a name="demo"></a>
-https://drive.google.com/file/d/1oFOJKurkkObizHyexUFWEOou_gMAU5kT/view
-
-## Screenshot <a name="screenshot"></a>
-![Screenshot (54)](https://github.com/SparkkyJD/README-generator/assets/127361245/7788f9a7-e767-4a8e-a83f-90e1180e0cba)
 
 ## Installation <a name="installation"></a>
-Clone repo, npm i, node index.js. 
+clone repo, npm i, node index.js 
 
 
 ## Usage Instructions <a name="usage"></a>
-After doing the node index.js command, go through propmpts and enter inputs 
+Go through prompts and enter in your inputs and criteria
 
 
 ## Contribution Guidelines <a name="contribution"></a>
-Not at this time
+n/a
 
 
 ## Test Instructions <a name="test"></a>
