@@ -1,7 +1,8 @@
 # ReadMe Generator mod 9. 
 
 ![License: MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen.svg)
-
+##Screenshot
+![Screenshot (54)](https://github.com/SparkkyJD/README-generator/assets/127361245/7788f9a7-e767-4a8e-a83f-90e1180e0cba)
 
 ## Description
 A readme,md file generator that utilizes inquirer.
